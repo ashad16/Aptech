@@ -1,0 +1,15 @@
+*
+{
+    margin: 0px;
+}
+.head1
+{
+    text-align: center;
+    background-color: yellow;
+    font-size: 40px;
+}
+.main-img
+{
+    height: 300px;
+    width: 100%;
+}
